@@ -1,7 +1,7 @@
 # Memory Card Game
 
 ## Opis
-Memory Card Game to gra w pamięć stworzona w JavaScript, HTML i CSS. Celem gry jest odnalezienie wszystkich pasujących par kart z owocami w jak najkrótszym czasie.
+Memory Card Game to prosta gra pamięciowa stworzona w JavaScript, HTML i CSS. Celem gry jest odnalezienie wszystkich pasujących par kart z owocami w jak najkrótszym czasie.
 
 
 ## Technologie
@@ -30,7 +30,7 @@ Zawiera obrazy używane jako awersy i rewersy kart:
 
 
 ## Uruchomienie
-Aby uruchomić grę, wystarczy otworzyć plik `index.html` w przeglądarce internetowej. Gra działa w dowolnej współczesnej przeglądarce bez potrzeby dodatkowych ustawień.
+Aby uruchomić grę, wystarczy otworzyć plik `index.html` w przeglądarce internetowej. Gra działa na dowolnej współczesnej przeglądarce bez potrzeby dodatkowych ustawień.
 
 
 ## Działanie gry
